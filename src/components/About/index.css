@@ -1,0 +1,22 @@
+.about-class {
+  height: 300px;
+  width: 300px;
+}
+.dark-theme {
+  background-color: black;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.light-theme {
+  color: black;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
